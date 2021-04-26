@@ -16,7 +16,7 @@ Expense:money_with_wings:
 ![](https://img.shields.io/github/last-commit/AndreaBabyy/Expense?color=red&style=plastic)
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=clothe&style=plastic&up_color=yellow&up_message=Expense&url=https%3A%2F%2Fexpense.mlem-mlem.net%2F)
 
-:chart_with_upwards_trend: GitHub Stats
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBabyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
