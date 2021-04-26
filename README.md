@@ -1,10 +1,11 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello!!! 
 <img align="right" src= "https://media.giphy.com/media/RN2RoRnu8mELtqNuEo/giphy.gif" width = 250 >
+
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Current project
 Expense:money_with_wings:
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Skills and Framework
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Skills and Framework
 ![](https://img.shields.io/badge/<Skill>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Skill>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Skill>-<JavarScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
