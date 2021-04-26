@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello!!! 
-<img align="right" src= "https://media.giphy.com/media/RN2RoRnu8mELtqNuEo/giphy.gif" width = 250 >
+<img align="right" src= "https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width = 250 >
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Current project
 Expense:money_with_wings:
@@ -18,6 +18,6 @@ Expense:money_with_wings:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBabyy&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
