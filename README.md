@@ -18,5 +18,3 @@ Expense:money_with_wings:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/Ma/master/wave.gif" width="30px">
