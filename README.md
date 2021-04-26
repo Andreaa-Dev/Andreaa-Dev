@@ -12,7 +12,7 @@ Current project: Expense
 
 
 
-
+:chart_with_upwards_trend: GitHub Stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
