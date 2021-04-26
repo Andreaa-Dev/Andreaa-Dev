@@ -11,9 +11,10 @@ Current project: Expense
 ![](https://img.shields.io/badge/<Framework>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-https://github.com/AndreaBabyy
-https://github.com/AndreaBabyy
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy_icons=true&theme=shades-of-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
