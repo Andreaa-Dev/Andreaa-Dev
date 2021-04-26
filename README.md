@@ -15,5 +15,5 @@ Expense:money_with_wings:
 
 :chart_with_upwards_trend: GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple&hide=prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
