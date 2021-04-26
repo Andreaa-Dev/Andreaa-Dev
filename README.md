@@ -1,5 +1,5 @@
 # Hello!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+[skill] (https://img.shields.io/badge/-<HTML>-<lightgray>)
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
