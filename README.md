@@ -1,7 +1,7 @@
 # Hello!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-:chart_with_upwards_trend:Current project
+:computer:Current project
 Expense:money_with_wings:
 
 :hammer_and_wrench: Skills and Framework
