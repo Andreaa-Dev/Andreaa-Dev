@@ -15,6 +15,7 @@ Current project: Expense
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy_icons=true&theme=shades-of-purple)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBabyy&show_icons=true&theme=shades-of-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
