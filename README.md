@@ -9,7 +9,7 @@
 
 ![](https://img.shields.io/badge/<Code>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-https://img.shields.io/github/commit-activity/m/Andreaa-Dev/Web-design-project?color=purple
+![]https://img.shields.io/github/commit-activity/m/Andreaa-Dev/Web-design-project?color=purple
 ![](https://img.shields.io/badge/<Code>-<JavarScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<Redux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<TypeScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
