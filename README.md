@@ -22,6 +22,8 @@
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=clothe&style=plastic&up_color=yellow&up_message=Web-design-project&url=https%3A%2F%2Fexpense.mlem-mlem.net%2F)
 ![](https://img.shields.io/github/stars/Andreaa-Dev?style=plastic)
 
+?style=plastic&logo=appveyor
+
 
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> GitHub Stats
