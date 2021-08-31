@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Skills and Framework
 
-![](https://img.shields.io/badge/<Code>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=plastic&logo=html5)
+![](https://img.shields.io/badge/<Code>-<HTML>-informational?style=flat&logo=<LOGO_NAME>?style=plastic&logo=html5)
 ![](https://img.shields.io/badge/<Code>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<JavarScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<Redux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -24,7 +24,7 @@
 
 ![](https://img.shields.io/github/commit-activity/m/Andreaa-Dev/new?logoColor=purple?style=plastic&logo=appveyor)
 
-
+&logoColor=white&color=2bbc8a
 
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> GitHub Stats
