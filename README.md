@@ -27,13 +27,16 @@
 
 
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> GitHub Stats
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaa-Dev&theme=shades-of-purple" />
+GitHub Stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andreaa-Dev&theme=shades-of-purple" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreaa-Dev&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndreaa-Dev&count_private=true)
 
 
 
