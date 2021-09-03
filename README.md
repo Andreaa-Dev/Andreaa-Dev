@@ -34,4 +34,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreaa-Dev&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Andreaa-Dev&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaa-Dev&theme=shades-of-purple" />
