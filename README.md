@@ -31,12 +31,12 @@
 
 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andreaa-Dev&theme=shades-of-purple" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreaa-Dev&show_icons=true&theme=shades-of-purple&hide=prs,contribs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndreaa-Dev&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreaa-Dev&count_private=true)
 
 
 
