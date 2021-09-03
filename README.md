@@ -33,5 +33,5 @@ GitHub Stats
 
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaa-Dev&theme=shades-of-purple" /> 
 
-<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple" />
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple" />
 
