@@ -38,4 +38,6 @@ GitHub Stats
 
 <img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" width="50">
 
+<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+
 
