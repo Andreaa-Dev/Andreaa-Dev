@@ -35,7 +35,7 @@ GitHub Stats
 
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple" />
 
-https://bemyguest.fi/
 
-<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" width="50">
+
 
