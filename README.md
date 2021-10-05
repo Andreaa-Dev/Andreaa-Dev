@@ -35,4 +35,6 @@ GitHub Stats
 
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple" />
 
+<img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47vwwwunot3psqan5vfhyo2x2dyou529k7l412qxvg&rid=giphy.gif&ct=g" width="50"> 
+
 
