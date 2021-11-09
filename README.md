@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello!!! 
  <img align="right" src= "https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width = "250px"> 
  
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> On going project: Online shopping
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> On going project: FS-BackEnd-E-commerce
 
 
 
@@ -18,7 +18,7 @@
 
 
 ![](https://img.shields.io/github/commit-activity/w/Andreaa-Dev/Online-shopping?color=red&style=plastic)
-![](https://img.shields.io/github/last-commit/Andreaa-Dev/Online-shopping?color=purple)
+![](https://img.shields.io/github/last-commit/Andreaa-Dev/FS-BackEnd-E-commerce?color=purple)
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=clothe&style=plastic&up_color=yellow&up_message=Online-shopping&url=https%3A%2F%2Fexpense.mlem-mlem.net%2F)
 ![](https://img.shields.io/github/stars/Andreaa-Dev?style=plastic)
 
