@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello!!! 
 
 
- <img src = "https://media1.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif?cid=790b7611942ecae413c5914a1cad94253ada583ee0afd79a&rid=giphy.gif&ct=g" width = 400 align="left">
+ <img src = "https://media1.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif?cid=790b7611942ecae413c5914a1cad94253ada583ee0afd79a&rid=giphy.gif&ct=g" width = 450 align="left">
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> On going project: FS-BackEnd-E-commerce
 
@@ -31,6 +31,6 @@
 
 GitHub Stats
 
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaa-Dev&theme=shades-of-purple" /> 
+<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaa-Dev&theme=shades-of-purple" /> 
 
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple" />
