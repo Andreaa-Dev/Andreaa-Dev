@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello!!! 
 
 
- <img src = "https://media1.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif?cid=790b7611942ecae413c5914a1cad94253ada583ee0afd79a&rid=giphy.gif&ct=g" width = 450>
+ <img src = "https://media1.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif?cid=790b7611942ecae413c5914a1cad94253ada583ee0afd79a&rid=giphy.gif&ct=g" width = 400>
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> On going project: FS-BackEnd-E-commerce
 
