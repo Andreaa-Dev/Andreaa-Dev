@@ -17,8 +17,8 @@
 ![](https://img.shields.io/badge/<Package>-<Styled-Component>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/github/commit-activity/Andreaa-Dev/restaurant-template?color=red&style=plastic)
-![](https://img.shields.io/github/last-commit/Andreaa-Dev/restaurant-template?color=purple)
+![](https://img.shields.io/github/commit-activity/w/Andreaa-Dev/restaurant-template&color=red&style=plastic)
+![](https://img.shields.io/github/last-commit/Andreaa-Dev/restaurant-template&color=purple)
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=clothe&style=plastic&up_color=yellow&up_message=restaurant-template&url=https%3A%2F%2Fexpense.mlem-mlem.net%2F)
 ![](https://img.shields.io/github/stars/Andreaa-Dev?style=plastic)
 
